@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=lipangza&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=lipamgza&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipangza">
 </p>
+
