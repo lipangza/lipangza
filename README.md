@@ -4,13 +4,16 @@
 
 
 <p align="center">
-  <strong><a href="https://space.bilibili.com/277045073">B站</a></strong> |
-  <strong><a href="http://lipangza.xyz">前端博客网站</a></strong>  
+  <strong><a href="https://chocolate.blog.csdn.net/">公众号：小狮子前端</a></strong> |
+  <strong><a href="https://chocolate.blog.csdn.net/">CSDN</a></strong> |
+  <strong><a href="https://space.bilibili.com/351534170">B站</a></strong> |
+  <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
+  <strong><a href="http://lipangza.xyz/">前端博客网站</a></strong>  
 </p>
-<a> <img src="https://profile-counter.glitch.me/lipangza/count.svg" /></a>
+<a href="http://lipangza.xyz"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/lipangza/count.svg" /></a>
 
-##  [Welcome To 黎胖砸の小窝](http://lipangza.xyz/)
-<a href="http://lipangza.xyz"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+##  [Welcome To 超逸の博客](http://lipangza.xyz/)
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes)
 - 👩🏻‍💻  [leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript)
 - 👩🏻‍💻  [【亡羊补牢】JS灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357771.html)
@@ -83,4 +86,3 @@ Here are some ideas to get you started:
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=lipangza&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipangza">
 </p>
-
