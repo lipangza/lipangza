@@ -1,4 +1,14 @@
+<p>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:l111">
+        <imgsrc="https://weather-icon.journeyad.repl.co/@xianyang?v=1" align="right"></a>
+    </p>
+
+
+
 ### Hi there 👋
+
+
+
 
 <!--
 **lipangza/lipangza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
