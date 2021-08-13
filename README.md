@@ -1,10 +1,16 @@
+
+<h1 align="center"> Hello! 👋  I'm <a href="https://github.com/lipangza">黎胖砸</a>!</h1>
+      <p>
+    <p align="center">
+  <strong><a href="https://github.com/lipangza/lipangza">github</a></strong> |
+  <strong><a href="https://gitee.com/lipangza/lipangza">gitee</a></strong> |
+  <strong><a href="https://space.bilibili.com/277045073">B站</a></strong> |
+  <strong><a href="http://lipangza.xyz/">前端博客网站</a></strong>  
+</p>
 <p>
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:2222">
-        <imgsrc="https://weather-icon.journeyad.repl.co/@xianyang?v=1" align="right"></a>
+        <imgsrc="https://weather-icon.journeyad.repl.co/@xianyang?v=1" align="center"></a>
     </p>
-<h1 align="center"> Hello! 👋  I'm <a href="https://github.com/lipangza">黎胖砸</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
-      <p>
         All at sea.<br />
         希望能成为一个有趣的人。希望能创造出可以成为他人回忆的事物。<br />
         <i style="text-decoration: line-through">25岁，是打工人</i> =>
