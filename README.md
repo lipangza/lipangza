@@ -9,7 +9,7 @@
   <strong><a href="https://space.bilibili.com/277045073">B站</a></strong> |
   <strong><a href="http://lipangza.xyz/">博客</a></strong>  
 </p>
-<p align="center" href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:2222"></p>
+<p align="center" href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:lipangza"></p>
 
 ##  [黎胖砸的小窝](http://lipangza.xyz/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
